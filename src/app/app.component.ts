@@ -13,5 +13,4 @@ export class AppComponent {
   variable1 = process.env['NG_TEST_01'];
   variable2 = process.env['NG_TEST_02'];
   variable3 = process.env['NG_TEST_03'];
-
 }
